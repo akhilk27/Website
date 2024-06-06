@@ -2,11 +2,11 @@ import React from 'react';
 import './Skills.css';
 
 const skills = {
-  Languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
-  'Web Technologies': ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'jQuery', 'React', 'Express', 'NodeJS', 'VueJS', 'Spring Boot'],
+  Languages: ['Python', 'Java', 'C++', 'C', 'PHP', 'R', 'SQL', 'Ruby'],
+  'Web Technologies': ['HTML', 'CSS', 'Bootstrap', 'JavaScript', 'jQuery', 'React', 'Express', 'NodeJS', 'VueJS', 'Spring Boot', 'Angular'],
   Databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
   Frameworks: ['.Net', 'NodeJS', 'REST', 'Scikit-Learn', 'TensorFlow', 'PyTorch', 'Keras', 'OpenCV', 'PySpark', 'Matplotlib', 'Django', 'Seaborn', 'Pandas', 'Numpy'],
-  Tools: ['GitHub', 'Power BI', 'Tableau', 'Jupyter Notebook', 'Visual Studio Code', 'MYSQL Workbench', 'Docker'],
+  Tools: ['GitHub', 'Power BI', 'Tableau', 'Jupyter Notebook', 'Visual Studio Code', 'Word Press', 'MYSQL Workbench', 'Docker'],
   "Cloud Technologies": ['AWS', 'Azure DevOps', 'Google Cloud'],
 };
 
