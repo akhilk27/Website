@@ -39,10 +39,24 @@ const projects = [
   },
   {
     id: 5,
+    title: 'Travel Tracker',
+    description: ["Developed a web application that allows users to keep track of states they visited in US, along with functionalities to add/remove users and states.", "Built a dynamic backend using Express.js and Node.js for seamless database interaction.", "Implemented EJS for efficient HTML content generation and dynamic user data presentation.", "Integrated PostgreSQL for relational database management, ensuring rapid data access and system efficiency."],
+    technologies: ["HTML", "CSS", "JavaScript", "EJS", "NodeJS", "ExpressJS", "PostgreSQL", "Git", "GitHub", "Visual Studio Code"],
+    image: '/p3.png',  
+  },
+  {
+    id: 6,
     title: 'SupesQuiz',
     description: ["SupesQuiz is an engaging web application built on Node.js and Express.js, featuring an interactive quiz interface where users can test their knowledge of superheroes.", "Utilizing EJS for dynamic HTML generation and PostgreSQL for robust data management, the application also maintains track of the highest score achieved by a player.", "With a seamless blend of HTML, CSS, and JavaScript, SupesQuiz offers an immersive and enjoyable gaming experience."],
-    technologies: ["HTML", "CSS", "JavaScript", "EJS", "NodeJS", "ExpressJS", "PostgreSQL"],
+    technologies: ["HTML", "CSS", "JavaScript", "EJS", "NodeJS", "ExpressJS", "PostgreSQL", "Git", "GitHub", "Visual Studio Code"],
     image: '/p3.png',  
+  },
+  {
+    id: 7,
+    title: 'Sales Analytics Project',
+    description: ["Designed PowerBI dashboard for data analysis, utilizing MySQL and performing ETL processes to preprocess data.", "Uncovered hidden sales insights, providing the sales team with enhanced interpretability and decision support.", "Contributed to atleast 10% improvement in decision-making efficiency, streamlining the sales process."],
+    technologies: ["PowerBI", "SQL", "MySQL"],
+    image: '/p3.png',
   }
   // Add more projects as needed
 ];
