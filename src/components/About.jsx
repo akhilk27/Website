@@ -13,8 +13,7 @@ const About = () => {
           <div className="col-12 col-lg-6">
             <h2 className="about-title">Akhilesh Reddy Katapally</h2>
             <p className="about-text">
-            Hi! I'm Akhilesh. With over 2 years of experience in developing and maintaining dynamic user interfaces and robust backend systems, I have contributed to high-quality software products. I am committed to continuous learning and growth, always staying updated with the latest technologies and best practices to deliver exceptional results.
-            </p>
+                Hi! I am Akhilesh! I am an experienced Data Scientist, Engineer, and Analyst with a strong background in predictive analytics, machine learning, data engineering, and procurement optimization. Proven track record in developing advanced models, ETL processes, and interactive dashboards to drive strategic business decisions. Skilled in Python, SQL, AWS, Snowflake, Tableau, and various machine learning frameworks, with a focus on enhancing supplier selection, cost optimization, and operational efficiency through data-driven insights.            </p>
           </div>
         </div>
       </div>
